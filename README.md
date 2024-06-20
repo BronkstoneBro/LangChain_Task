@@ -1,6 +1,3 @@
-
-
-
 ### ▶️ 1. Create a virtual environment
 
 ```bash
