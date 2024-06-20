@@ -14,7 +14,7 @@ pip install fastapi uvicorn langchain_huggingface transformers torch torchvision
 
 ```
 
-### ▶ 3. Run the application:
+### ▶️ 3. Run the application:
 
 ```bash
 uvicorn main:app --reload
